@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Computer Science
 - 🌱 I’m currently learning React and Rest API's
-- Looking foward to learning more about Web Development
+- Looking foward to learning more about Web Development (back end and front end)
 
 
 
