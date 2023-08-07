@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning React and Rest API's
-- Looking foward to learning more about Web Development (back end and front end)
+- 🌱 I’m currently learning Vue and interacting with API's to build projects
+- Looking foward to learning more about Full Stack development
 
 
 
