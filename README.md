@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning Vue and interacting with API's to build projects
+- 🔭 Currently studying Computer Science at UFSCar - Campus Sorocaba  
+- 🌱 I’m currently learning Vue and API's to build full stack projects
 - Looking foward to learning more about Full Stack development
 
 
@@ -12,6 +12,9 @@
   <img align="center" alt="Js-Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React-Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Vue-Icon" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  
+  <img align="center" alt="NodeJs-Icon" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
   <img align="center" alt="Postgresql-Icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
           
   <!--<img align="center" alt="Python-Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
